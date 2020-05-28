@@ -1,0 +1,22 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe.config
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\LinkedIn Learning\C# - Delegates, Events, and Lambdas\Ex_Files_C#_events\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe.config
+C:\Users\Owner\Documents\LinkedIn Learning\C# - Delegates, Events, and Lambdas\Ex_Files_C#_events\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe
+C:\Users\Owner\Documents\LinkedIn Learning\C# - Delegates, Events, and Lambdas\Ex_Files_C#_events\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.pdb
+C:\Users\Owner\Documents\LinkedIn Learning\C# - Delegates, Events, and Lambdas\Ex_Files_C#_events\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\LinkedIn Learning\C# - Delegates, Events, and Lambdas\Ex_Files_C#_events\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\LinkedIn Learning\C# - Delegates, Events, and Lambdas\Ex_Files_C#_events\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.exe
+C:\Users\Owner\Documents\LinkedIn Learning\C# - Delegates, Events, and Lambdas\Ex_Files_C#_events\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.pdb
