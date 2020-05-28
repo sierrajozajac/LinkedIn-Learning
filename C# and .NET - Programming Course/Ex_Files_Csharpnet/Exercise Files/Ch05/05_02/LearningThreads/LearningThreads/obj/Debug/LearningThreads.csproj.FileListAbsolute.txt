@@ -1,0 +1,13 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\05_02\LearningThreads\LearningThreads\bin\Debug\LearningThreads.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\05_02\LearningThreads\LearningThreads\bin\Debug\LearningThreads.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\05_02\LearningThreads\LearningThreads\bin\Debug\LearningThreads.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\05_02\LearningThreads\LearningThreads\obj\Debug\LearningThreads.csprojResolveAssemblyReference.cache
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\05_02\LearningThreads\LearningThreads\obj\Debug\LearningThreads.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\05_02\LearningThreads\LearningThreads\obj\Debug\LearningThreads.pdb
+C:\Users\Owner\Documents\LinkedIn Learning\C# and .NET - Programming Course\Ex_Files_Csharpnet\Exercise Files\Ch05\05_02\LearningThreads\LearningThreads\bin\Debug\LearningThreads.exe.config
+C:\Users\Owner\Documents\LinkedIn Learning\C# and .NET - Programming Course\Ex_Files_Csharpnet\Exercise Files\Ch05\05_02\LearningThreads\LearningThreads\bin\Debug\LearningThreads.exe
+C:\Users\Owner\Documents\LinkedIn Learning\C# and .NET - Programming Course\Ex_Files_Csharpnet\Exercise Files\Ch05\05_02\LearningThreads\LearningThreads\bin\Debug\LearningThreads.pdb
+C:\Users\Owner\Documents\LinkedIn Learning\C# and .NET - Programming Course\Ex_Files_Csharpnet\Exercise Files\Ch05\05_02\LearningThreads\LearningThreads\obj\Debug\LearningThreads.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\LinkedIn Learning\C# and .NET - Programming Course\Ex_Files_Csharpnet\Exercise Files\Ch05\05_02\LearningThreads\LearningThreads\obj\Debug\LearningThreads.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\LinkedIn Learning\C# and .NET - Programming Course\Ex_Files_Csharpnet\Exercise Files\Ch05\05_02\LearningThreads\LearningThreads\obj\Debug\LearningThreads.exe
+C:\Users\Owner\Documents\LinkedIn Learning\C# and .NET - Programming Course\Ex_Files_Csharpnet\Exercise Files\Ch05\05_02\LearningThreads\LearningThreads\obj\Debug\LearningThreads.pdb
