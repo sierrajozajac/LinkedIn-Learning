@@ -1,0 +1,13 @@
+c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningDotNet\LearningDotNet\bin\Debug\LearningDotNet.exe.config
+c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningDotNet\LearningDotNet\bin\Debug\LearningDotNet.exe
+c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningDotNet\LearningDotNet\bin\Debug\LearningDotNet.pdb
+c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.csprojResolveAssemblyReference.cache
+c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.exe
+c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.pdb
+C:\Users\Owner\Documents\GitHub\Ex_Files_Csharpnet\Exercise Files\Ch01\01_03\LearningDotNet\LearningDotNet\bin\Debug\LearningDotNet.exe.config
+C:\Users\Owner\Documents\GitHub\Ex_Files_Csharpnet\Exercise Files\Ch01\01_03\LearningDotNet\LearningDotNet\bin\Debug\LearningDotNet.exe
+C:\Users\Owner\Documents\GitHub\Ex_Files_Csharpnet\Exercise Files\Ch01\01_03\LearningDotNet\LearningDotNet\bin\Debug\LearningDotNet.pdb
+C:\Users\Owner\Documents\GitHub\Ex_Files_Csharpnet\Exercise Files\Ch01\01_03\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\Ex_Files_Csharpnet\Exercise Files\Ch01\01_03\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\Ex_Files_Csharpnet\Exercise Files\Ch01\01_03\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.exe
+C:\Users\Owner\Documents\GitHub\Ex_Files_Csharpnet\Exercise Files\Ch01\01_03\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.pdb
