@@ -1,0 +1,11 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\bin\Debug\LearningDictionaries.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\bin\Debug\LearningDictionaries.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\bin\Debug\LearningDictionaries.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\obj\Debug\LearningDictionaries.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\obj\Debug\LearningDictionaries.pdb
+C:\Users\Owner\Documents\LinkedIn Learning\C# and .NET - Programming Course\Ex_Files_Csharpnet\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\bin\Debug\LearningDictionaries.exe.config
+C:\Users\Owner\Documents\LinkedIn Learning\C# and .NET - Programming Course\Ex_Files_Csharpnet\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\bin\Debug\LearningDictionaries.exe
+C:\Users\Owner\Documents\LinkedIn Learning\C# and .NET - Programming Course\Ex_Files_Csharpnet\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\bin\Debug\LearningDictionaries.pdb
+C:\Users\Owner\Documents\LinkedIn Learning\C# and .NET - Programming Course\Ex_Files_Csharpnet\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\obj\Debug\LearningDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\LinkedIn Learning\C# and .NET - Programming Course\Ex_Files_Csharpnet\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\obj\Debug\LearningDictionaries.exe
+C:\Users\Owner\Documents\LinkedIn Learning\C# and .NET - Programming Course\Ex_Files_Csharpnet\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\obj\Debug\LearningDictionaries.pdb
